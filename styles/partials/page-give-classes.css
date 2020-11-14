@@ -155,10 +155,9 @@
     justify-content: space-between;
   }
   
-    #page-give-classes main footer button{
+  #page-give-classes main footer button {
       width: 200px;
       
       margin-top: 0;
-    }
-
+  }
 }

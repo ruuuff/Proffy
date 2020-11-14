@@ -94,7 +94,7 @@
 }
 
 /* Caso ultrapasse 1100px, ele aplica */
-@media (min-width: 420px /* 1100px MUDAR DE VOLTA DEPOIS */) {
+@media (min-width: 1100px) {
   #page-landing #container {
     max-width: 1100px;
     
